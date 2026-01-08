@@ -18,12 +18,12 @@ This tool allows you to load, view, edit, add/remove glyphs, preview associated 
 
 ## Installation
 
-bash
-git clone https://github.com/yourusername/DS2-CCM-Font-Editor.git
-cd DS2-CCM-Font-Editor
+```bash
+git clone https://github.com/ReaIMoFraD/DS2-CCM-Font-Reader.git
+cd DS2-CCM-Font-Reader
 pip install -r requirements.txt
 python main.py
-
+```
 
 > Rename your main script to `main.py` or adjust the run command accordingly.
 
