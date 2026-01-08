@@ -32,9 +32,6 @@ python main.py
 4. Use **Export to Text** for batch editing or backups, then **Import from Text** to apply changes.
 5. Save modifications with **Save CCM**.
 
-## Screenshots
-*(Add screenshots of the UI here once available – recommended for better visibility on GitHub)*
-
 ## TODO / Planned Features
 - Direct texture preview with glyph region highlighting
 - Full DDS support with thumbnail generation
