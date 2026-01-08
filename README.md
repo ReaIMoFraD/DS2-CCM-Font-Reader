@@ -1,3 +1,5 @@
+[خواندن به زبان فارسی 🇮🇷](README-fa.md) | Read EN 🇮🇷](README.md) 
+---
 # DS2 CCM Font Editor
 
 A modern graphical editor for **Dark Souls II** (and Scholar of the First Sin) **.ccm** font files.
