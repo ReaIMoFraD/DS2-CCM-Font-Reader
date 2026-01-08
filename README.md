@@ -25,8 +25,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> Rename your main script to `main.py` or adjust the run command accordingly.
-
 ## Usage
 1. Click **Load CCM** and select a `.ccm` file (usually found in `menu/font` folder of the game).
 2. The tool automatically searches for matching texture files in the same directory.
