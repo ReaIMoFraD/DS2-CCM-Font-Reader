@@ -1,4 +1,4 @@
-[خواندن به زبان فارسی](README-fa.md)🇮🇷
+[خواندن به زبان فارسی 🇮🇷](README-fa.md)
 ---
 # DS2 CCM Font Editor
 
