@@ -1,4 +1,3 @@
-```markdown
 # DS2 CCM Font Editor
 
 A modern graphical editor for **Dark Souls II** (and Scholar of the First Sin) **.ccm** font files.
@@ -19,12 +18,12 @@ This tool allows you to load, view, edit, add/remove glyphs, preview associated 
 
 ## Installation
 
-```bash
+bash
 git clone https://github.com/yourusername/DS2-CCM-Font-Editor.git
 cd DS2-CCM-Font-Editor
 pip install -r requirements.txt
 python main.py
-```
+
 
 > Rename your main script to `main.py` or adjust the run command accordingly.
 
@@ -57,4 +56,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 Made with ❤️ for the Dark Souls modding community.
-```
