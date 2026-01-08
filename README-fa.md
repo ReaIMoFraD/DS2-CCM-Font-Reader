@@ -1,3 +1,5 @@
+ [Read in English](README.md)
+---
 # DS2 CCM Font Editor
 
 یک ویرایشگر گرافیکی مدرن برای فایل‌های فونت **.ccm** بازی **Dark Souls II** (و نسخه Scholar of the First Sin).
